@@ -1,0 +1,41 @@
+
+        body {
+            background-color: rgb(254, 254, 24);
+            text-align: center;
+        }
+
+        #g {
+            width: 83px;
+            height: 33px;
+            text-align: center;
+            border-radius: 10px;
+            font-size: 20px;
+        }
+
+        #g:hover{
+            background-color: brown;
+        }
+
+        #research {
+            width: 83px;
+            height: 33px;
+            text-align: center;
+            border-radius: 10px;
+            font-size: 20px;
+        }
+
+        #research:hover {
+            background-color:darkgreen;
+        }
+        
+        #abc {
+            width: 180px;
+            height: 33px;
+            text-align: center;
+            border-radius: 10px;
+            font-size: 20px;
+        }
+
+        #abc:hover {
+            background-color:blueviolet;
+        }
